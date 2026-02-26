@@ -102,17 +102,16 @@ export default function Register() {
           <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
           <div className="z-10">
             <h1 className="text-5xl font-black text-white leading-tight tracking-tighter uppercase mb-2">
-              Join
+              Step
               <br />
-              The
+              Into
               <br />
-              Vibe.
+              Your World
             </h1>
             <div className="h-1 w-20 bg-black mt-4"></div>
           </div>
           <p className="z-10 text-red-100 font-medium text-sm leading-relaxed opacity-90">
-            "Design is not just what it looks like and feels like. Design is how
-            it works."
+            "Create your account — let your social journey begin"
           </p>
           {/* Decorative Circle */}
           <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-black/20 rounded-full blur-2xl"></div>

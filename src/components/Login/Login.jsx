@@ -88,7 +88,7 @@ async function myHandleSubmit(values) {
           </div>
           
           <p className="z-10 text-red-100 font-medium text-sm leading-relaxed opacity-90 mb-10">
-            "To be creative means to be in love with life."
+            Share moments, create memories, stay connected
           </p>
 
           <div className="absolute -top-10 -right-10 w-40 h-40 bg-black/20 rounded-full blur-2xl"></div>
