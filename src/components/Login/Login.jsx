@@ -100,7 +100,7 @@ async function myHandleSubmit(values) {
              <h1 className="text-4xl font-black text-white tracking-tighter uppercase">
               Log In
             </h1>
-            <p className="text-red-500 font-bold tracking-widest text-xs uppercase mt-2">Access your space</p>
+            <p className="text-red-500 font-bold tracking-widest text-xs uppercase mt-2">Enter your world</p>
           </div>
 
           <form onSubmit={handleSubmit(myHandleSubmit)} className="space-y-6">
@@ -113,7 +113,7 @@ async function myHandleSubmit(values) {
                 <input
                   {...register("email")}
                   type="email"
-                  placeholder="name@company.com"
+                  placeholder="Mariam@example.com"
                   className="w-full bg-black/50 border border-zinc-800 rounded-lg py-3 pl-11 pr-4 text-white placeholder-zinc-700 focus:outline-none focus:border-red-600 focus:ring-1 focus:ring-red-600 transition-all"
                 />
               </div>
