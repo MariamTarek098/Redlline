@@ -14,7 +14,7 @@ import PostDetails from './components/post/PostDetails';
 import { Toaster } from "react-hot-toast";
 import { Offline } from "react-detect-offline";
 import { FiWifiOff } from 'react-icons/fi'; 
-import Settings from './components/settings/settings';
+import Settings from './components/settings/Settings';
 import Notifications from './components/Notification/Notifications';
 
 
