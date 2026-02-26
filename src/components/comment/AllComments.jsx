@@ -4,7 +4,7 @@ import toast from "react-hot-toast";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { FiMoreHorizontal, FiEdit2, FiTrash2 } from 'react-icons/fi'; 
 import { authContext } from "../context/AuthContext";
-import CommentCreation from "./commentCreation";
+import CommentCreation from "./CommentCreation";
 
 
 function formatTimeAgo(dateInput) {
