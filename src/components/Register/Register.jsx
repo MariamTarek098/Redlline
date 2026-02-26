@@ -138,7 +138,7 @@ export default function Register() {
                   <input
                     {...register("name")}
                     type="text"
-                    placeholder="John Doe"
+                    placeholder="Mariam Tarek"
                     className="w-full bg-black/50 border border-zinc-800 rounded-lg py-3 pl-11 pr-4 text-white placeholder-zinc-700 focus:outline-none focus:border-red-600 focus:ring-1 focus:ring-red-600 transition-all"
                   />
                 </div>
@@ -158,7 +158,7 @@ export default function Register() {
                   <input
                     {...register("username")}
                     type="text"
-                    placeholder="Mariam"
+                    placeholder="Mariam433 (optional)"
                     className="w-full bg-black/50 border border-zinc-800 rounded-lg py-3 pl-11 pr-4 text-white placeholder-zinc-700 focus:outline-none focus:border-red-600 focus:ring-1 focus:ring-red-600 transition-all"
                   />
                 </div>
